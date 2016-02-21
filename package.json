@@ -1,0 +1,20 @@
+{
+  "name": "iknsa-ng2-course",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iknsa-formation/ng2-course.git"
+  },
+  "author": [
+    "Khalid Sookia <khalidsookia@gmail.com>"
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/iknsa-formation/ng2-course/issues"
+  }
+}
